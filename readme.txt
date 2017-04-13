@@ -1,0 +1,1 @@
+This application continuously checks a folder for new files. If a new file appears in the folder, the system notifies users by email.
